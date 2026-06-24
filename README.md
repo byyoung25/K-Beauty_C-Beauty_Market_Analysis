@@ -4,7 +4,7 @@
 
 본 프로젝트는 Reddit 소비자 데이터를 활용한
 K-Beauty·C-Beauty 소비자 인식 분석과
-Shanghai CBE 2025 현장조사를 결합하여
+Shanghai CBE 2026 현장조사를 결합하여
 중국 화장품 시장의 경쟁 구도와 향후 전략 방향을 분석한 프로젝트입니다.
 
 ---
@@ -40,11 +40,11 @@ Shanghai CBE 2025 현장조사를 결합하여
 K-Beauty C-Beauty Market Analysis
 # China Beauty Market Analysis
 
-### K-Beauty vs C-Beauty Consumer Perception Analysis and CBE 2025 Market Observation
+### K-Beauty vs C-Beauty Consumer Perception Analysis and CBE 2026 Market Observation
 
 ## Project Overview
 
-This project analyzes global consumer perceptions of K-Beauty and C-Beauty brands using Reddit user comments and combines the findings with observations from Shanghai China Beauty Expo (CBE) 2025.
+This project analyzes global consumer perceptions of K-Beauty and C-Beauty brands using Reddit user comments and combines the findings with observations from Shanghai China Beauty Expo (CBE) 2026.
 
 The objective of this project is to understand the changing competitive landscape of the Chinese beauty market and identify strategic implications for Korean beauty brands.
 
@@ -97,7 +97,7 @@ This project explores:
 
 ### Industry Trends
 
-Observed at CBE 2025:
+Observed at CBE 2026:
 
 * Growth of functional skincare products
 * Expansion of anti-aging solutions
